@@ -10,5 +10,3 @@ fs.readFileAsync(filename, { encoding: 'utf-8' })
   .catch(err => {
     console.error(err.message)
   })
-
-
